@@ -67,3 +67,11 @@ nav ul li a {
     width:100px;
     background-color: #000;
 }
+
+/* Javascript page*/
+#content-box {
+    display:none;
+}
+#content-box.visible {
+    display:block;
+}
